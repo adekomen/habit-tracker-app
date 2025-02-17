@@ -1,16 +1,21 @@
-# habit_tracker_app
+# Les membres du groupe
+Groupe 6: sujet 2
+- ADESU Kokouvi
+- AYIDEDJI Florent
+- FAGBEGNON Bruno
+- KPADJOUDA Enock
+- BOSSOU Gémisse
 
-A new Flutter project.
 
-## Getting Started
+## Habit Tracker App
 
-This project is a starting point for a Flutter application.
+Une application Flutter pour suivre vos habitudes quotidiennes.
 
-A few resources to get you started if this is your first Flutter project:
+### Fonctionnalités
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Ajouter des habitudes
+- Modifier une habitudes
+- Supprimer une habitudes
+- Suivre la progression
+- Recevoir des rappels
+- Intégration avec un calendrier
